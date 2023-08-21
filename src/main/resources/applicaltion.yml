@@ -1,0 +1,29 @@
+#Spring:
+#  mail:
+#    host:
+#    port:
+#    username:
+#    password:
+
+#spring:
+#  datasource:
+#    username: root
+#    password: Artist
+#    url: jdbc:mysql://localhost:3306/user_management
+#    driverClassName: com.mysql.jdbc.Driver
+#  jpa:
+#    hibernate:
+#      ddl-auto: create
+#    show-sql: true
+##    generate-ddl: true
+#   mail:
+#    host: smtp.gmail.com
+#    port: 587
+#    username: schaurasia743@gmail.com
+#    password:
+#    properties:
+#      mail:
+#        smtp:
+#          auth: true
+#          starttls:
+#            enable: true
