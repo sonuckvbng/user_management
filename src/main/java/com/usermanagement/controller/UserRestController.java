@@ -63,6 +63,7 @@ public class UserRestController {
             return new ResponseEntity<>("Account status changed successfully", HttpStatus.OK);
         }
         return new ResponseEntity<>("Failed to change",HttpStatus.BAD_REQUEST);
+
     }
 
     @PostMapping("/login")
